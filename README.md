@@ -22,14 +22,6 @@ run train.py for training SSTCMVC
 
 ------
 
-## Datasets
-
-[Click here](https://pan.baidu.com/s/1VeoVNCR4GVCmd8DQxKZFGw) to access all datasets.
-
-Key: SSTC
-
-------
-
 ## Experiment Results
 
 We compare our proposed SSTCMVC with 10 state-of-the-art multi-view clustering methods:
